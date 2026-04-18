@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "createdAt": "2026-04-18T11:46:14.535Z",
+  "vault": {
+    "inbox": "Inbox",
+    "archive": "Archive"
+  },
+  "capture": {
+    "inboxStrategy": "hybrid",
+    "hybridGapMinutes": 10
+  }
+}
